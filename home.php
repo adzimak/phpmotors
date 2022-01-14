@@ -38,7 +38,7 @@
 <p>Superman doors</p>
 <p>Fuzzy dice</p>
 </section>
-<img src="\phpmotors\images\site\own_today.png" alt="Qwn_today">
+<img src='\phpmotors\images\site\own_today.png' alt='Qwn_today'>
 <img src="\phpmotors\images\delorean.jpg" alt="delorean">
  
 <h2>Upgrades</h2>
