@@ -54,8 +54,6 @@
 <figure>
 <img src="\phpmotors\images\upgrades\hub-cap.jpg" alt="Hub-cap" data-src="phpmotors\images\upgrades\hub-cap.jpg">
 </figure>
-
-
 </main>
 
 
